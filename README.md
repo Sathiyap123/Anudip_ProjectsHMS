@@ -1,23 +1,22 @@
-// Hospital Management System (HMS)
+# Hospital Management System (HMS)
 
 This project is a Python-based Hospital Management System developed as part of the Anudip program.
 
-//  Features
+## Features
 - Patient registration
 - Doctor details management
 - Appointment scheduling
 - Billing management
 - Record maintenance
 
-//  Technologies Used
+## Technologies Used
 - Python
-- MySQL / SQLite
-- Tkinter / Flask (if applicable)
+- SQLite / MySQL
 
-// How to Run the Project
-1. Install Python (version 3.x)
-2. Install required libraries
-3. Run the main Python file
+## How to Run
+1. Install Python 3.x
+2. Run the file:
+   python Hospital.py
 
- // Author
+## Author
 Sathiya
